@@ -1,3 +1,3 @@
 # hello-world
-just repository
+This is just a repository.
 I've just changed this file
